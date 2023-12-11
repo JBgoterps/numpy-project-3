@@ -3,7 +3,7 @@ import requests
 import numpy as np
 import pandas as pd
 
-# Page that we will webscrape from
+# Page that the program will webscrape from
 wr_page = 'https://www.pro-football-reference.com/leaders/rec_yds_career.htm'
 
 # Parsing
